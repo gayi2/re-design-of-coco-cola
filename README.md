@@ -5,8 +5,15 @@ Case Study: Coca-Cola Redesign — A Passion Project
  Overview
 This case study presents a personal and creative redesign of the Coca-Cola website using Figma. The primary objective was to modernize the visual language, enhance user navigation, and create a refreshing, minimal aesthetic while retaining the iconic brand essence. This project reflects both my design skills and deep emotional connection to the Coca-Cola brand.
 
+
+
+
+
 Personal Motivation
 From my earliest memories, Coca-Cola has been more than just a drink — it's been a part of moments, celebrations, and everyday life. As someone who grew up loving Coca-Cola, this project was driven by pure passion. I’ve always admired the brand's timeless identity, and I saw this as an opportunity to reimagine it with my own creative vision, blending nostalgia with modern UI/UX principles.
+
+
+
 
 Goals
 Simplify the navigation for a better user experience
@@ -17,12 +24,17 @@ Create a clean and intuitive interface structure
 
 Present the site sections like Home, Products, Studio, Creations, Shop clearly and consistently
 
+
+
+
  Tools Used
 Figma – for wireframing, UI layout, and interactive prototyping
 
 Color palette – retained Coca-Cola’s iconic red and white with modern tones for contrast
 
 Typography – clean, bold fonts to enhance readability and evoke brand strength
+
+
 
  Design Features
 Consistent Header Navigation: Maintained across all pages for easy access to Home, Products, Studio, Creations, and Shop.
@@ -33,10 +45,14 @@ Text & Visual Balance: Clean text placement with ample white space supports visu
 
 Product-Centric Pages: The product section is highlighted clearly, allowing users to explore Coca-Cola variants intuitively.
 
+
+
  Challenges Faced
 Balancing personal creativity with brand guidelines: Ensuring the design remained recognizable while adding a fresh twist.
 
 Consistency in layout across sections: Achieving a fluid design flow without making pages feel repetitive or dull.
+
+
 
  What I Learned
 How to redesign a global brand while respecting its identity
